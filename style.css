@@ -44,17 +44,6 @@
     }
     .buy img{
         width: 85px;
-    }
-
-}
-@media (max-width:380px) {
-    .price{
-        width: 56px;
-        height: 25px;
-        font-size: 0.8rem;
-    }
-    .buy img{
-        width: 85px;
         margin-left: 1px;
     }
     .p-2{
@@ -77,18 +66,19 @@
     }
 
 }
-@media (max-width:780px) and (min-width:420px) {
+@media (max-width:760px) and (min-width:420px) {
     .price{
         width: 74px;
         height: 25px;
         font-size: 0.9rem;
     }
     .buy img{
-        width: 95px;
+        width: 105px;
         
     }
     .p-2{
         padding: 1px;
+        margin: 1px;
     }
 
 }
