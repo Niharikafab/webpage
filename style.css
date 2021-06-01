@@ -74,11 +74,12 @@
     }
     .buy img{
         width: 105px;
+        margin-left: 2px;
         
     }
     .p-2{
         padding: 1px;
-        margin-left: 2px;
+        
     }
 
 }
