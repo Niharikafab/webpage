@@ -47,6 +47,21 @@
     }
 
 }
+@media (max-width:380px) {
+    .price{
+        width: 56px;
+        height: 25px;
+        font-size: 0.8rem;
+    }
+    .buy img{
+        width: 85px;
+        margin-left: 1px;
+    }
+    .p-2{
+        padding: 1px;
+    }
+
+}
 @media (max-width:415px) and (min-width:390px) {
     .price{
         width: 74px;
@@ -55,6 +70,25 @@
     }
     .buy img{
         width: 95px;
+        margin-left: 1px;
+    }
+    .p-2{
+        padding: 1px;
+    }
+
+}
+@media (max-width:780px) and (min-width:420px) {
+    .price{
+        width: 74px;
+        height: 25px;
+        font-size: 0.9rem;
+    }
+    .buy img{
+        width: 95px;
+        
+    }
+    .p-2{
+        padding: 1px;
     }
 
 }
@@ -66,10 +100,14 @@
     }
     .buy img{
         width: 82px;
+        
+    }
+    .p-2{
+        padding: 1px;
     }
 
 }
-  
+
    
     
     
